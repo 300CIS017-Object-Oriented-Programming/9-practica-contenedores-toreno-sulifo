@@ -174,3 +174,12 @@ Si no lo cumples o no estás seguro, deja el espacio en blanco.
 > - Implementar clases y relaciones en C++ usando punteros y contenedores (`map`, `vector`).
 > - Organizar y desarrollar un proyecto completo de forma fluida.
 
+ Aquí puedes encontrar las referencias a las actividades y material previo para estudiar
+ * https://github.com/lufe089/POO/blob/main/2.DiseñoOrientadoObjetos.md
+ * https://github.com/lufe089/POO/blob/main/3.CodificacionCpp.md
+ * https://github.com/lufe089/POO/blob/main/4.%20PrimeraCod.md
+ * https://github.com/lufe089/POO/blob/main/5.EjerciciosDiseño.md
+ * https://github.com/lufe089/POO/blob/main/6.%20EjerciciosCod1Relaciones.md
+ * https://github.com/lufe089/POO/blob/main/7.Contendores.md
+
+* Ejercicio torres de niza - solución completa: https://github.com/300CIS017-Object-Oriented-Programming/2025-1b-6b-memoria-dinamica-ejm_mem_dinamica_obj
