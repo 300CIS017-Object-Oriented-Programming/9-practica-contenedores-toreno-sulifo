@@ -174,12 +174,21 @@ Si no lo cumples o no estás seguro, deja el espacio en blanco.
 > - Implementar clases y relaciones en C++ usando punteros y contenedores (`map`, `vector`).
 > - Organizar y desarrollar un proyecto completo de forma fluida.
 
- Aquí puedes encontrar las referencias a las actividades y material previo para estudiar
- * https://github.com/lufe089/POO/blob/main/2.DiseñoOrientadoObjetos.md
- * https://github.com/lufe089/POO/blob/main/3.CodificacionCpp.md
- * https://github.com/lufe089/POO/blob/main/4.%20PrimeraCod.md
- * https://github.com/lufe089/POO/blob/main/5.EjerciciosDiseño.md
- * https://github.com/lufe089/POO/blob/main/6.%20EjerciciosCod1Relaciones.md
- * https://github.com/lufe089/POO/blob/main/7.Contendores.md
+### 📚 Material de estudio recomendado
 
-* Ejercicio torres de niza - solución completa: https://github.com/300CIS017-Object-Oriented-Programming/2025-1b-6b-memoria-dinamica-ejm_mem_dinamica_obj
+Aquí puedes consultar las actividades y materiales previos para reforzar los temas que necesites:
+
+- [Diseño orientado a objetos](https://github.com/lufe089/POO/blob/main/2.Dise%C3%B1oOrientadoObjetos.md)
+- [Codificación básica en C++](https://github.com/lufe089/POO/blob/main/3.CodificacionCpp.md)
+- [Primera codificación de clases](https://github.com/lufe089/POO/blob/main/4.%20PrimeraCod.md)
+- [Ejercicios de diseño orientado a objetos](https://github.com/lufe089/POO/blob/main/5.EjerciciosDise%C3%B1o.md)
+- [Ejercicios de codificación con relaciones](https://github.com/lufe089/POO/blob/main/6.%20EjerciciosCod1Relaciones.md)
+- [Contenedores en C++ (`vector`, `map` y otros)](https://github.com/lufe089/POO/blob/main/7.Contendores.md)
+
+---
+### 💎 Ejemplo completo recomendado
+
+- 🏰 **Ejercicio Torres de Niza - Solución completa:**  
+[Ver solución en GitHub](https://github.com/300CIS017-Object-Oriented-Programming/2025-1b-6b-memoria-dinamica-ejm_mem_dinamica_obj)
+
+---
